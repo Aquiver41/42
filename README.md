@@ -13,7 +13,7 @@
 | **Get Next Line** | Satır satır okuma | [/get_next_line](./get_next_line) |
 | **ft_printf** | printf yeniden yazımı | _yakında_ |
 | **Born2BeRoot** | Debian VM & güvenlik | _yakında_ |
-| **Minitalk** | SIGUSR1/2 ile mesajlaşma | _yakında_ |
+| **Minitalk** | Sinyallerle mesajlaşma | [/minitalk](./minitalk) | `SIGUSR1/SIGUSR2` |
 
 ## 🧪 Test & Kalite
 - Norminette uyumlu, `-Wall -Wextra -Werror`
