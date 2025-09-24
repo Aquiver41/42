@@ -4,23 +4,28 @@
 ![Last commit](https://img.shields.io/github/last-commit/Aquiver41/42)
 ![Status](https://img.shields.io/badge/status-active-success)
 
-42 Kocaeli’de yaptığım projeleri tek çatı altında topladığım depo.
+Merhaba! 42 Kocaeli’de yaptığım projeleri burada topluyorum.  
+Her proje artık **kendi ayrı reposunda** bulunuyor.
 
-## 📁 Projeler
-| Proje | Açıklama | Klasör |
-|---|---|---|
-| **Libft** | Kişisel C kütüphanesi (bonus dahil) | [/libft](./libft) |
-| **Get Next Line** | Satır satır okuma | [/get_next_line](./get_next_line) |
-| **ft_printf** | printf yeniden yazımı | _yakında_ |
-| **Born2BeRoot** | Debian VM & güvenlik | _yakında_ |
-| **Minitalk** | Sinyallerle mesajlaşma | [/minitalk](./minitalk) | `SIGUSR1/SIGUSR2` |
+---
 
-## 🧪 Test & Kalite
-- Norminette uyumlu, `-Wall -Wextra -Werror`
-- Valgrind ile sızıntı kontrolü
+## 📌 Projeler
 
-## ⚙️ Ortam
-WSL2/Ubuntu, VS Code (Remote WSL), GCC/Make/Git, Valgrind, gdb.
+| Proje        | Açıklama                       | Repo Link |
+|--------------|-------------------------------|-----------|
+| **Libft**    | Kişisel C kütüphanesi          | [🔗 Repo](https://github.com/Aquiver41/libft) |
+| **Get Next Line** | Satır satır dosya okuma   | [🔗 Repo](https://github.com/Aquiver41/get_next_line) |
+| **ft_printf**| printf yeniden yazımı          | [🔗 Repo](https://github.com/Aquiver41/ft_printf) |
+| **Born2BeRoot** | Debian VM & güvenlik        | [🔗 Repo](https://github.com/Aquiver41/born2beroot) |
+| **Minitalk** | Sinyallerle mesajlaşma         | [🔗 Repo](https://github.com/Aquiver41/minitalk) |
 
-## 📫
-GitHub: [Aquiver41](https://github.com/Aquiver41)
+---
+
+## 🧰 Teknolojiler
+C • Make • Git • Linux • Bash • Valgrind • gdb • Markdown
+
+---
+
+## 🚀 İletişim
+- GitHub: [Aquiver41](https://github.com/Aquiver41)
+
