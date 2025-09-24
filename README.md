@@ -17,7 +17,7 @@ Her proje artık **kendi ayrı reposunda** bulunuyor.
 | **Get Next Line** | Satır satır dosya okuma   | [🔗 Repo](https://github.com/Aquiver41/get_next_line) |
 | **ft_printf**| printf yeniden yazımı          | [🔗 Repo](https://github.com/Aquiver41/ft_printf) |
 | **Born2BeRoot** | Debian VM & güvenlik        | [🔗 Repo](https://github.com/Aquiver41/born2beroot) |
-| **Minitalk** | Sinyallerle mesajlaşma         | [🔗 Repo](https://github.com/Aquiver41/minitalk) |
+| **Minitalk** | Sinyallerle mesajlaşma         | [🔗 minitalk](https://github.com/Aquiver41/minitalk) |
 
 ---
 
