@@ -1,0 +1,13 @@
+# build artifacts
+*.o
+*.out
+*.a
+*.dSYM/
+*.exe
+*.obj
+
+# editors
+.vscode/
+.idea/
+.DS_Store
+42/
